@@ -1,0 +1,18 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+    background-color: blue;
+    border-radius: 7px;
+    border: 2px solid white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+.m2{
+    margin: 26px 0;
+}
